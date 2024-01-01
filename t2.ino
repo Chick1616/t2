@@ -10,4 +10,5 @@ void loop(){
     //delay(1000);
     blink(400,13);
     k++;
+    k--;
 }
